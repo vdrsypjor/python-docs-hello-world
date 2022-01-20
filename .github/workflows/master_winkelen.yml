@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'winkelen'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5ACDBF9EFE184F5EAAC083B2B5917E3F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2AA70AA2573347549E74AB7DEBF66FAE }}
